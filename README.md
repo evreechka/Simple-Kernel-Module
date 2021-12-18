@@ -13,11 +13,13 @@ Develop a set of user-level and yard-level programs that collects information on
 4. Target structures: *dentry* and *address_space*
 
 :desktop_computer: **Launch**
+Write this commands in Terminal
 
-1. call make
+1. make
 2. sudo insmod *.ko
 3. sudo ./user \<path_name\>
 4. sudo rmmod *.ko
+5. make clean
   
 :paperclip: **Example**
 

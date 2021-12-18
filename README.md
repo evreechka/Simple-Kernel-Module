@@ -21,4 +21,3 @@ Develop a set of user-level and yard-level programs that collects information on
   
 **Example**
 
-![Example](https://vk.com/doc460964428_623332939?hash=52da7a86e5f03f2d02&dl=5fac65266142135c87)
